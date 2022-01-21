@@ -18,13 +18,13 @@ The API provides the GET method for reading records:
 #### Datenbank-Schema:
 ![grafik](https://user-images.githubusercontent.com/61579665/150421026-a380eb34-e13d-467c-9a83-d2d3008a9e63.png)
 
-# Prerequisites
+## Prerequisites
 - Install Terraform
 - Get AWS CLI Credentials from AWS Academy (e.g. in the file ~/.aws/credentials)
 
 ## Usage
 This command is used to initialize a working directory containing Terraform configuration files. This is the first command that should be run after writing a new Terraform configuration or cloning an existing one from version control:
-  terraform init
+<copy-button> terraform init </copy-button>
 
 This command creates an execution plan, which lets you preview the changes that Terraform plan to make to your infrastructur:
   terraform plan

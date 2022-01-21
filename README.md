@@ -31,6 +31,8 @@ This command creates an execution plan, which lets you preview the changes that 
 
 This command executes the actions proposed in a Terraform plan.
 - terraform apply
+
+ After you applied the configuration, you should be able to access the web server after some minutes (URL of your deployments).
   
 ## Occurred problem
 Unfortunately, the output of the web server does not work properly. There is a problem with the JSON decoding, which could not be solved by our side.

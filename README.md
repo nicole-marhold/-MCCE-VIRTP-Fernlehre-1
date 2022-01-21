@@ -24,7 +24,7 @@ The API provides the GET method for reading records:
 
 ## Usage
 This command is used to initialize a working directory containing Terraform configuration files. This is the first command that should be run after writing a new Terraform configuration or cloning an existing one from version control:
-<copy-button> terraform init </copy-button>
+[copy text="terraform init" content ="100OFF"]
 
 This command creates an execution plan, which lets you preview the changes that Terraform plan to make to your infrastructur:
   terraform plan

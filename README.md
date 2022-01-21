@@ -1,5 +1,5 @@
 # MCCE-VIRTP-Fernlehre-1 // Infrastructure-as-Code / AWS
-von Christoph Marchhart und Nicole Marhold
+## Christoph Marchhart und Nicole Marhold
 
 Die Applikation besteht aus drei Microservices. Ein Webserver stellt dabei das Front-End zur Verfügung. Das Back-End besteht aus zwei unabhängigen Maschinen, auf denen eine MySQLDatenbank läuft, sowie eine API zur Datenkommunikation des Webservices dient.
 
